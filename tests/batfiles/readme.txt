@@ -1,0 +1,2 @@
+Test batch files. Read about here http://tolik-punkoff.com/2021/08/02/bat-cmd-zaderzhka-tajm-aut-pauza-analog-komandy-sleep-linux-v-dos-windows/
+or here https://lj.rossia.org/users/hex_laden/521153.html
